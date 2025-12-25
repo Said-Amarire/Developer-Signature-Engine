@@ -12,7 +12,7 @@
         created: 2025,
         current: new Date().getFullYear()
       },
-      version: "2.2.0 Silent",
+      version: "2.2.0",
       social: {
         github: "https://github.com/Said-Amarire",
         linkedin: "https://www.linkedin.com/in/said-amarire/",
